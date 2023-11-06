@@ -1,4 +1,27 @@
-img{
-	width: 522px;
-	height:300px;
+/* General styles */
+body {
+  font-family: sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+/* Header styles */
+.header {
+  color: white;
+}
+
+/* Latest News styles */
+.latest-news-section {
+  border: 1px solid #ccc;
+}
+
+/* Pictorial News styles */
+.pictorial-news-section {
+  margin-top: 20px;
+}
+
+img {
+  margin-top: 10px;
 }
